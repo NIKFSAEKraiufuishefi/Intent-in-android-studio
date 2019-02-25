@@ -1,0 +1,6 @@
+Intent intent = new INtent(MainACtivity.this,yourActivity);
+
+
+//yoy insert add youry activity
+
+//شما میتوانید در قسمت youractivityاکنیوتی که میخواید برود رو اضافه کنید
